@@ -50,17 +50,43 @@
   text-align: center;
 }
 
-.boton-descargar {
-  background-color: #0077cc;
-  color: white;
-  padding: 0.4rem 0.8rem;
-  border-radius: 6px;
-  text-decoration: none;
-  font-size: 0.85rem;
-  transition: background-color 0.2s;
+.botones-acciones {
+  display: flex;
+  gap: 1px;
+  margin-top: 1px;
+  justify-content: center;
 }
 
-.boton-descargar:hover {
-  background-color: #005fa3;
+.boton-descargar,
+.boton-copiar {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 4px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 10px;
+  transition: background-color 0.3s;
 }
+
+.boton-descargar:hover,
+.boton-copiar:hover {
+  background-color: #0056b3;
+}
+
+.boton-copiar {
+  background-color: #2f6100;
+  color: white;
+  border: none;
+  padding: 4px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 10px;
+  transition: background-color 0.3s;
+}
+
+.boton-copiar:hover {
+  background-color: #012400;
+}
+
 

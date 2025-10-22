@@ -13,8 +13,10 @@ const gifList = [
   "corazon.gif",
   "cranky_01.gif",
   "cranky_02.gif",
+  "dia_de_muertos.gif",
   "diablin.gif",
   "donkey.gif",
+  "feliz_navidad.gif",
   "feria.gif",
   "feria_1.gif",
   "feria_1_ultrahd.gif",
@@ -41,6 +43,7 @@ const gifList = [
   "matrix_joyboy.gif",
   "matrix_reloaded.gif",
   "matrix_reloaded_ultra.gif",
+  "navidad.gif",
   "negro64x16.gif",
   "negro80x20.gif",
   "negro128x32.gif",
@@ -67,23 +70,20 @@ const gifList = [
   "viva_mexico_5_ultra.gif",
   "yoshi.gif",
   "you_onda.gif",
-
-  // Agrega aquí todos los nombres de tus GIFs
 ];
 
 const formatearNombre = (nombre) => {
   return nombre
-    .replace(/\.gif$/i, "") // quitar extensión .gif
-    .replace(/_/g, " ") // reemplazar guiones bajos por espacios
-    .replace(/\b\w/g, (l) => l.toUpperCase()); // poner mayúscula a cada palabra
+    .replace(/\.gif$/i, "")
+    .replace(/_/g, " ")
+    .replace(/\b\w/g, (l) => l.toUpperCase());
 };
-
 
 const GifGallery = () => {
   const [copiadoIndex, setCopiadoIndex] = useState(null);
 
-  // URL base absoluta para GitHub Pages
-  const BASE_URL = "https://ingeabraham23.github.io/chicapala/#/gifs/";
+  // ✅ BASE_URL absoluto correcto para tu sitio GitHub Pages
+  const BASE_URL = "https://ingeabraham23.github.io/gifs/gifs/";
 
   const copiarLink = async (gifUrl, index) => {
     try {
@@ -92,6 +92,7 @@ const GifGallery = () => {
       setTimeout(() => setCopiadoIndex(null), 1500);
     } catch (error) {
       console.error("Error al copiar:", error);
+      alert("No se pudo copiar el enlace 😞");
     }
   };
 
