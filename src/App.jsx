@@ -55,6 +55,7 @@ const gifList = [
   "por_que_me_gustas_wey_64_x_32.gif",
   "predator_01.gif",
   "predator_02.gif",
+  "rata.gif",
   "ryu.gif",
   "ryu_cammy.gif",
   "sonic.gif",
