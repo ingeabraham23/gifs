@@ -3,6 +3,7 @@ import "./App.css";
 
 const gifList = [
   "adp.gif",
+  "altar_todos_santos.gif",
   "araña.gif",
   "araña_joyboy.gif",
   "bandera.gif",
@@ -17,6 +18,7 @@ const gifList = [
   "diablin.gif",
   "donkey.gif",
   "feliz_navidad.gif",
+  "feliz_navidad_2.gif",
   "feria.gif",
   "feria_1.gif",
   "feria_1_ultrahd.gif",
@@ -58,6 +60,7 @@ const gifList = [
   "rata.gif",
   "ryu.gif",
   "ryu_cammy.gif",
+  "san_juditas.gif",
   "sonic.gif",
   "spider_joyboy.gif",
   "status.gif",
