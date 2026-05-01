@@ -1,0 +1,182 @@
+import React from "react";
+import "./Escalas.css";
+
+const Escalas = () => {
+  return (
+    <div className="galeria-container-escalas">
+
+      {/* LETRERO NORMAL */}
+      <table>
+        <thead>
+          <tr>
+            <th colSpan={3}>LETRERO NORMAL</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr className="fila-edicion">
+            <td>512</td>
+            <td>128</td>
+            <td className="tag-edicion">Edición</td>
+          </tr>
+
+          <tr className="fila-intermedia">
+            <td>256</td>
+            <td>64</td>
+            <td className="tag-edicion">x4</td>
+          </tr>
+
+          <tr className="fila-intermedia">
+            <td>128</td>
+            <td>32</td>
+            <td className="tag-edicion">x2</td>
+          </tr>
+
+          <tr className="fila-letrero">
+            <td>64</td>
+            <td>16</td>
+            <td className="tag-letrero">LETRERO</td>
+          </tr>
+        </tbody>
+      </table>
+
+
+      {/* LETRERO HD */}
+      <table>
+        <thead>
+          <tr>
+            <th colSpan={3}>LETRERO HD</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr className="fila-edicion">
+            <td>640</td>
+            <td>160</td>
+            <td className="tag-edicion">Edición</td>
+          </tr>
+
+          <tr className="fila-intermedia">
+            <td>320</td>
+            <td>80</td>
+            <td className="tag-edicion">x4</td>
+          </tr>
+
+          <tr className="fila-intermedia">
+            <td>160</td>
+            <td>40</td>
+            <td className="tag-edicion">x2</td>
+          </tr>
+
+          <tr className="fila-letrero">
+            <td>80</td>
+            <td>20</td>
+            <td className="tag-letrero">LETRERO</td>
+          </tr>
+        </tbody>
+      </table>
+
+
+      {/* LETRERO ULTRAHD */}
+      <table>
+        <thead>
+          <tr>
+            <th colSpan={3}>LETRERO ULTRAHD</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr className="fila-edicion">
+            <td>1024</td>
+            <td>256</td>
+            <td className="tag-edicion">Edición</td>
+          </tr>
+
+          <tr className="fila-intermedia">
+            <td>512</td>
+            <td>128</td>
+            <td className="tag-edicion">x4</td>
+          </tr>
+
+          <tr className="fila-intermedia">
+            <td>256</td>
+            <td>64</td>
+            <td className="tag-edicion">x2</td>
+          </tr>
+
+          <tr className="fila-letrero">
+            <td>128</td>
+            <td>32</td>
+            <td className="tag-letrero">LETRERO</td>
+          </tr>
+        </tbody>
+      </table>
+
+
+      {/* LETRERO CUADRADO */}
+      <table>
+        <thead>
+          <tr>
+            <th colSpan={3}>LETRERO CUADRADO</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr className="fila-edicion">
+            <td>512</td>
+            <td>256</td>
+            <td className="tag-edicion">Edición</td>
+          </tr>
+
+          <tr className="fila-intermedia">
+            <td>256</td>
+            <td>128</td>
+            <td className="tag-edicion">x4</td>
+          </tr>
+
+          <tr className="fila-intermedia">
+            <td>128</td>
+            <td>64</td>
+            <td className="tag-edicion">x2</td>
+          </tr>
+
+          <tr className="fila-letrero">
+            <td>64</td>
+            <td>32</td>
+            <td className="tag-letrero">LETRERO</td>
+          </tr>
+        </tbody>
+      </table>
+
+      {/* LETRERO CUADRADO */}
+      <table>
+        <thead>
+          <tr>
+            <th colSpan={3}>Configurar photoshop</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr className="fila-edicion">
+            <td>1. Edicion </td>
+          </tr>
+          <tr className="fila-edicion">
+            <td>2. Preferencias </td>
+          </tr>
+          <tr className="fila-edicion">
+            <td>3. Guias, cuadriculas y sectores </td>
+          </tr>
+          <tr className="fila-edicion">
+            <td>4. Linea de cuadricula cada 8 pixeles, subdivisiones 1 </td>
+          </tr>
+          <tr className="fila-edicion">
+            <td>5. Vista, Mostrar cuadricula </td>
+          </tr>
+          <tr className="fila-edicion">
+            <td>5. Vista, Ecajar, Cuadricula </td>
+          </tr>
+
+         
+        </tbody>
+      </table>
+
+    </div>
+  );
+};
+
+export default Escalas;
