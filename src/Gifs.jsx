@@ -85,6 +85,10 @@ const categorias = [
             "ch_chicapala.gif",
             "ch_jhonny.gif",
             "ch_johnny.gif",
+            "ch_mapache.gif",
+            "ch_mapache2.gif",
+            "ch_mapache3.gif",
+            "ch_mapache4.gif",
 
         ],
     },
