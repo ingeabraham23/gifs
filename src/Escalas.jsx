@@ -144,6 +144,41 @@ const Escalas = () => {
         </tbody>
       </table>
 
+      {/* LETRERO LARGO 192 x 32 */}
+      <table>
+        <thead>
+          <tr>
+            <th colSpan={3}>LETRERO LARGO 192 x 32</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr className="fila-edicion">
+            <td>1536</td>
+            <td>256</td>
+            <td className="tag-edicion">Edición</td>
+          </tr>
+
+          <tr className="fila-intermedia">
+            <td>768</td>
+            <td>128</td>
+            <td className="tag-edicion">x4</td>
+          </tr>
+
+          <tr className="fila-intermedia">
+            <td>384</td>
+            <td>64</td>
+            <td className="tag-edicion">x2</td>
+          </tr>
+
+          <tr className="fila-letrero">
+            <td>192</td>
+            <td>32</td>
+            <td className="tag-letrero">LETRERO</td>
+          </tr>
+        </tbody>
+      </table>
+
+
       {/* LETRERO CUADRADO */}
       <table>
         <thead>
@@ -171,7 +206,38 @@ const Escalas = () => {
             <td>5. Vista, Ecajar, Cuadricula </td>
           </tr>
 
-         
+
+        </tbody>
+      </table>
+
+      {/* LETRERO CUADRADO */}
+      <table>
+        <thead>
+          <tr>
+            <th colSpan={3}>Renombrar archivos</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr className="fila-edicion">
+            <td>1. Renamer den4b </td>
+          </tr>
+          <tr className="fila-edicion">
+            <td>2. Agregar regla </td>
+          </tr>
+          <tr className="fila-edicion">
+            <td>3. Numerar </td>
+          </tr>
+          <tr className="fila-edicion">
+            <td>4. Donde insertar: Sustituir nombre actual </td>
+          </tr>
+          <tr className="fila-edicion">
+            <td>5. Rellenar con ceros hasta longitud: 2 </td>
+          </tr>
+          <tr className="fila-edicion">
+            <td>5. Sistema de numerado: Digitos decimales (0...9) </td>
+          </tr>
+
+
         </tbody>
       </table>
 
