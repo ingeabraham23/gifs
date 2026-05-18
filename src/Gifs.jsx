@@ -90,6 +90,7 @@ const categorias = [
             "ch_garfield99.gif",
             "ch_garfield.gif",
             "ch_marvinpistol.gif",
+            "ch_marvinpistol99.gif",
 
         ],
     },
