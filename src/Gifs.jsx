@@ -61,6 +61,8 @@ const categorias = [
             "f_cristo.gif",
             "f_antorcha.gif",
             "f_juditas_64.gif",
+            "f_carrusel.gif",
+            "f_roller.gif",
         ],
     },
 
@@ -91,6 +93,7 @@ const categorias = [
             "ch_garfield.gif",
             "ch_marvinpistol.gif",
             "ch_marvinpistol99.gif",
+            "ch_diablo.gif",
 
         ],
     },
