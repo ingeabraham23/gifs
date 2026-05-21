@@ -43,6 +43,7 @@ const categorias = [
             "r1_sanmiguel.gif",
             "r1_huehueymico.gif",
             "r1_abastos_64.gif",
+            "r1_espiritu.gif",
         ],
     },
     {
@@ -63,6 +64,7 @@ const categorias = [
             "f_juditas_64.gif",
             "f_carrusel.gif",
             "f_roller.gif",
+            "f_expresso.gif",
         ],
     },
 
@@ -130,6 +132,7 @@ const categorias = [
             "uv_balto.gif",
             "uv_centro.gif",
             "uv_besos.gif",
+            "uv_acatenobuap2.gif",
         ],
     },
 
