@@ -179,7 +179,7 @@ const Escalas = () => {
       </table>
 
 
-      {/* LETRERO CUADRADO */}
+      {/* CONFIGURAR POTHOSHOP*/}
       <table>
         <thead>
           <tr>
@@ -205,12 +205,22 @@ const Escalas = () => {
           <tr className="fila-edicion">
             <td>5. Vista, Ecajar, Cuadricula </td>
           </tr>
+          <tr className="fila-edicion">
+            <td>Tip. teclas de direccion + shift mueve 10 px </td>
+          </tr>
+          <tr className="fila-edicion">
+            <td>Vista, Nueva guía, vertical 512 px, es para la línea de arriba hacia abajo</td>
+          </tr>
+
+          <tr className="fila-edicion">
+            <td>Vista, Nueva guía, horizontal 128 px, es para la línea de izquierda a derecha</td>
+          </tr>
 
 
         </tbody>
       </table>
 
-      {/* LETRERO CUADRADO */}
+      {/* RENOMBRAR ARCHIVOS*/}
       <table>
         <thead>
           <tr>
@@ -236,8 +246,6 @@ const Escalas = () => {
           <tr className="fila-edicion">
             <td>5. Sistema de numerado: Digitos decimales (0...9) </td>
           </tr>
-
-
         </tbody>
       </table>
 

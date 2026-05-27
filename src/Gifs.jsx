@@ -44,6 +44,9 @@ const categorias = [
             "r1_huehueymico.gif",
             "r1_abastos_64.gif",
             "r1_espiritu.gif",
+            "r1_secc23.gif",
+            "r1_infonavit.gif",
+            "r1_aurora.gif",
         ],
     },
     {
