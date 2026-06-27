@@ -30,10 +30,23 @@ const categorias = [
     },
 
     {
+        nombre: "RUTA 03",
+        gifs: [
+            "r3_sani.gif",
+            "r3_francia.gif",
+            "r3_coyotzingo.gif",
+            "r3_tecolote_16.gif",
+            "r3_tecolote_18.gif",
+
+        ],
+    },
+
+    {
         nombre: "RUTA 01",
         gifs: [
             "r1_cipreses.gif",
             "r1_ayotzingo.gif",
+            "r1_ayotzingo_c.gif",
             "r1_ayotzingo_b.gif",
             "r1_ixticpan.gif",
             "r1_tianguis4.gif",
@@ -47,6 +60,8 @@ const categorias = [
             "r1_secc23.gif",
             "r1_infonavit.gif",
             "r1_aurora.gif",
+            "espiritu.gif",
+            "sanmiguel.gif",
         ],
     },
     {
@@ -68,6 +83,10 @@ const categorias = [
             "f_carrusel.gif",
             "f_roller.gif",
             "f_expresso.gif",
+            "f_gol.gif",
+            "f_gol_120.gif",
+            "f_gol120.gif",
+            "f_korea.gif",
         ],
     },
 
@@ -99,6 +118,10 @@ const categorias = [
             "ch_marvinpistol.gif",
             "ch_marvinpistol99.gif",
             "ch_diablo.gif",
+            "mexico_fifa.gif",
+            "taz69.gif",
+            "mexico_45.gif",
+            "mexico_99.gif",
 
         ],
     },
