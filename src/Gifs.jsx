@@ -67,8 +67,7 @@ const categorias = [
     {
         nombre: "FESTIVIDADES",
         gifs: [
-            "f_bosque01.gif",
-            "f_bosque02.gif",
+            
         ],
     },
 
@@ -87,26 +86,6 @@ const categorias = [
             "ch_pio.gif",
             "ch_pio_largo.gif",
             "ch_mapache_t.gif",
-            "ch_predator.gif",
-            "ch_diablin.gif",
-            "ch_taz.gif",
-            "ch_marvin.gif",
-            "ch_djsheriff.gif",
-            "ch_chuky.gif",
-            "ch_chicapala.gif",
-            "ch_jhonny.gif",
-            "ch_johnny.gif",
-            "ch_mapache.gif",
-            "ch_mapacherun.gif",
-            "ch_garfield99.gif",
-            "ch_garfield.gif",
-            "ch_marvinpistol.gif",
-            "ch_marvinpistol99.gif",
-            "ch_diablo.gif",
-            "mexico_fifa.gif",
-            "taz69.gif",
-            "mexico_45.gif",
-            "mexico_99.gif",
 
         ],
     },
