@@ -67,26 +67,8 @@ const categorias = [
     {
         nombre: "FESTIVIDADES",
         gifs: [
-            "f_sanvalentin.gif",
-            "f_hallowen_64.gif",
-            "f_todosantos_64.gif",
-            "f_altar_64.gif",
-            "f_mexico_64.gif",
-            "f_navidad_641.gif",
-            "f_navidad_642.gif",
-            "f_navidad_643.gif",
-            "f_navidad.gif",
-            "f_cristo_64.gif",
-            "f_cristo.gif",
-            "f_antorcha.gif",
-            "f_juditas_64.gif",
-            "f_carrusel.gif",
-            "f_roller.gif",
-            "f_expresso.gif",
-            "f_gol.gif",
-            "f_gol_120.gif",
-            "f_gol120.gif",
-            "f_korea.gif",
+            "f_bosque01.gif",
+            "f_bosque02.gif",
         ],
     },
 
@@ -102,6 +84,9 @@ const categorias = [
     {
         nombre: "CHARACTERS",
         gifs: [
+            "ch_pio.gif",
+            "ch_pio_largo.gif",
+            "ch_mapache_t.gif",
             "ch_predator.gif",
             "ch_diablin.gif",
             "ch_taz.gif",
