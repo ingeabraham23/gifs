@@ -44,24 +44,9 @@ const categorias = [
     {
         nombre: "RUTA 01",
         gifs: [
-            "r1_cipreses.gif",
-            "r1_ayotzingo.gif",
-            "r1_ayotzingo_c.gif",
-            "r1_ayotzingo_b.gif",
-            "r1_ixticpan.gif",
-            "r1_tianguis4.gif",
-            "r1_conalep.gif",
-            "r1_ixtlahuaca.gif",
-            "r1_sansalvador.gif",
-            "r1_sanmiguel.gif",
-            "r1_huehueymico.gif",
-            "r1_abastos_64.gif",
-            "r1_espiritu.gif",
-            "r1_secc23.gif",
             "r1_infonavit.gif",
-            "r1_aurora.gif",
-            "espiritu.gif",
-            "sanmiguel.gif",
+            "r1_loma.gif",
+
         ],
     },
     {
