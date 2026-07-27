@@ -32,6 +32,12 @@ const categorias = [
     {
         nombre: "RUTA 03",
         gifs: [
+            "r3_descanso.gif",
+            "r3_teco_fres.gif",
+            "r3_tenextepec.gif",
+            "r3_tezotepec.gif",
+            "r3_xaxala.gif",
+            
             "r3_sani.gif",
             "r3_francia.gif",
             "r3_coyotzingo.gif",
@@ -44,9 +50,26 @@ const categorias = [
     {
         nombre: "RUTA 01",
         gifs: [
+            "r1_abastos_64.gif",
+            "r1_atoluca.gif",
+            "r1_aurora.gif",
+            "r1_ayotzingo.gif",
+            "r1_ayotzingo_b.gif",
+            "r1_ayotzingo_c.gif",
+            "r1_cipreses.gif",
+            "r1_conalep.gif",
+            "r1_espiritu.gif",
+            "r1_huehueymico.gif",
             "r1_infonavit.gif",
+            "r1_ixticpan.gif",
+            "r1_ixtlahuaca.gif",
             "r1_loma.gif",
-
+            "r1_sanmiguel.gif",
+            "r1_sansalvador.gif",
+            "r1_secc23.gif",
+            "r1_tianguis4.gif",
+            "r1_zontecomaco.gif",
+            
         ],
     },
     {
@@ -68,7 +91,6 @@ const categorias = [
     {
         nombre: "CHARACTERS",
         gifs: [
-            "ch_pio.gif",
             "ch_pio_largo.gif",
             "ch_mapache_t.gif",
 
@@ -80,6 +102,7 @@ const categorias = [
         gifs: [
             "calc_wey.gif",
             "calc_wey_6432.gif",
+            "calc_todas.gif",
         ],
     },
 
@@ -91,7 +114,7 @@ const categorias = [
     },
 
     {
-        nombre: "OTROS",
+        nombre: "VARIOS",
         gifs: [
             "otro_paleta.gif",
         ],
