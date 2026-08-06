@@ -75,7 +75,11 @@ const categorias = [
     {
         nombre: "FESTIVIDADES",
         gifs: [
-            
+            "f_feria_chico.gif",
+            "f_feria_g_corto.gif",
+            "f_feria_prueba.gif",
+            "f_feria_7s.gif",
+            "f_caballitos_8s.gif",
         ],
     },
 
