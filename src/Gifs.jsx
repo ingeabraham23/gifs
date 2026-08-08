@@ -44,6 +44,9 @@ const categorias = [
             "r3_tecolote_16.gif",
             "r3_tecolote_18.gif",
 
+            "r3_francia_mexico.gif",
+            "r3_sanisidro_mexico.gif",
+
         ],
     },
 
