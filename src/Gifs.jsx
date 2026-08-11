@@ -46,6 +46,8 @@ const categorias = [
 
             "r3_francia_mexico.gif",
             "r3_sanisidro_mexico.gif",
+            "r3_coyot_mex.gif",
+
 
         ],
     },
@@ -72,7 +74,8 @@ const categorias = [
             "r1_secc23.gif",
             "r1_tianguis4.gif",
             "r1_zontecomaco.gif",
-            
+
+            "r1_ixticpan_mexico.gif",
         ],
     },
     {
@@ -83,6 +86,8 @@ const categorias = [
             "f_feria_prueba.gif",
             "f_feria_7s.gif",
             "f_caballitos_8s.gif",
+            "f_viva_mexico_grande.gif",
+
         ],
     },
 
@@ -138,6 +143,10 @@ const categorias = [
             "uv_centro.gif",
             "uv_besos.gif",
             "uv_acatenobuap2.gif",
+
+            "uv_acateno_mx.gif",
+            "uv_mexcal_mex1.gif",
+            "uv_mexcal_mex2.gif",
         ],
     },
 
