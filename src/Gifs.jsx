@@ -8,41 +8,15 @@ const categorias = [
     {
         nombre: "URBANOS ROJOS",
         gifs: [
-            "ur_sani_gr.gif",
-            "ur_cali_gr.gif",
-            "ur_sosa_gr.gif",
-            "ur_tezo_gr.gif",
-            "ur_talzin_gr.gif",
-            "ur_taco_gr.gif",
-
-
             "ur_centro.gif",
             "ur_centro_lib.gif",
 
-
-            "ur_sani.gif",
-            "ur_cali.gif",
-            "ur_sosa.gif",
-            "ur_tezo.gif",
-            "ur_talzin.gif",
-            "ur_taco.gif",
         ],
     },
 
     {
         nombre: "RUTA 03",
         gifs: [
-            "r3_descanso.gif",
-            "r3_teco_fres.gif",
-            "r3_tenextepec.gif",
-            "r3_tezotepec.gif",
-            "r3_xaxala.gif",
-            
-            "r3_sani.gif",
-            "r3_francia.gif",
-            "r3_coyotzingo.gif",
-            "r3_tecolote_16.gif",
-            "r3_tecolote_18.gif",
 
             "r3_francia_mexico.gif",
             "r3_sanisidro_mexico.gif",
@@ -55,25 +29,7 @@ const categorias = [
     {
         nombre: "RUTA 01",
         gifs: [
-            "r1_abastos_64.gif",
-            "r1_atoluca.gif",
-            "r1_aurora.gif",
-            "r1_ayotzingo.gif",
-            "r1_ayotzingo_b.gif",
-            "r1_ayotzingo_c.gif",
-            "r1_cipreses.gif",
-            "r1_conalep.gif",
-            "r1_espiritu.gif",
-            "r1_huehueymico.gif",
-            "r1_infonavit.gif",
-            "r1_ixticpan.gif",
-            "r1_ixtlahuaca.gif",
-            "r1_loma.gif",
-            "r1_sanmiguel.gif",
-            "r1_sansalvador.gif",
-            "r1_secc23.gif",
-            "r1_tianguis4.gif",
-            "r1_zontecomaco.gif",
+
 
             "r1_ixticpan_mexico.gif",
         ],
@@ -135,14 +91,6 @@ const categorias = [
     {
         nombre: "URBANOS VERDES",
         gifs: [
-            "uv_acatenobuap.gif",
-            "uv_tepetitan.gif",
-            "uv_secc23lagarita.gif",
-            "uv_seccion1.gif",
-            "uv_balto.gif",
-            "uv_centro.gif",
-            "uv_besos.gif",
-            "uv_acatenobuap2.gif",
 
             "uv_acateno_mx.gif",
             "uv_mexcal_mex1.gif",
