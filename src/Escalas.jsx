@@ -4,7 +4,6 @@ import "./Escalas.css";
 const Escalas = () => {
   return (
     <div className="galeria-container-escalas">
-
       {/* LETRERO NORMAL */}
       <table>
         <thead>
@@ -38,7 +37,6 @@ const Escalas = () => {
           </tr>
         </tbody>
       </table>
-
 
       {/* LETRERO HD */}
       <table>
@@ -74,7 +72,6 @@ const Escalas = () => {
         </tbody>
       </table>
 
-
       {/* LETRERO ULTRAHD */}
       <table>
         <thead>
@@ -108,7 +105,6 @@ const Escalas = () => {
           </tr>
         </tbody>
       </table>
-
 
       {/* LETRERO CUADRADO */}
       <table>
@@ -178,7 +174,6 @@ const Escalas = () => {
         </tbody>
       </table>
 
-
       {/* CONFIGURAR POTHOSHOP*/}
       <table>
         <thead>
@@ -209,14 +204,18 @@ const Escalas = () => {
             <td>Tip. teclas de direccion + shift mueve 10 px </td>
           </tr>
           <tr className="fila-edicion">
-            <td>Vista, Nueva guía, vertical 512 px, es para la línea de arriba hacia abajo</td>
+            <td>
+              Vista, Nueva guía, vertical 512 px, es para la línea de arriba
+              hacia abajo
+            </td>
           </tr>
 
           <tr className="fila-edicion">
-            <td>Vista, Nueva guía, horizontal 128 px, es para la línea de izquierda a derecha</td>
+            <td>
+              Vista, Nueva guía, horizontal 128 px, es para la línea de
+              izquierda a derecha
+            </td>
           </tr>
-
-
         </tbody>
       </table>
 
@@ -248,7 +247,6 @@ const Escalas = () => {
           </tr>
         </tbody>
       </table>
-
     </div>
   );
 };

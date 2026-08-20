@@ -9,7 +9,6 @@ const categorias = [
         nombre: "URBANOS ROJOS",
         gifs: [
             "ur_centro.gif",
-            "ur_centro_lib.gif",
 
         ],
     },
@@ -17,10 +16,8 @@ const categorias = [
     {
         nombre: "RUTA 03",
         gifs: [
-
-            "r3_francia_mexico.gif",
-            "r3_sanisidro_mexico.gif",
-            "r3_coyot_mex.gif",
+            "r3_tenex_mex.gif",
+            "r3_tezo_mex.gif",
 
 
         ],
@@ -42,8 +39,8 @@ const categorias = [
             "f_feria_prueba.gif",
             "f_feria_7s.gif",
             "f_caballitos_8s.gif",
-            "f_viva_mexico_grande.gif",
-
+            "f_viva_mexico.gif",
+            "f_vivamex_full.gif",
         ],
     },
 
@@ -59,8 +56,7 @@ const categorias = [
     {
         nombre: "CHARACTERS",
         gifs: [
-            "ch_pio_largo.gif",
-            "ch_mapache_t.gif",
+            "ch_takechi.gif",
 
         ],
     },
@@ -68,8 +64,6 @@ const categorias = [
     {
         nombre: "CALCOMANIAS",
         gifs: [
-            "calc_wey.gif",
-            "calc_wey_6432.gif",
             "calc_todas.gif",
         ],
     },
@@ -92,23 +86,13 @@ const categorias = [
         nombre: "URBANOS VERDES",
         gifs: [
 
-            "uv_acateno_mx.gif",
-            "uv_mexcal_mex1.gif",
-            "uv_mexcal_mex2.gif",
+            "uv_tezongo_mex.gif",
         ],
     },
 
     {
         nombre: "RUTA 02",
         gifs: [
-            "r2_acateno.gif",
-            "r2_invernadero.gif",
-            "r2_tepetitan.gif",
-            "r2_amila.gif",
-            "r2_brisas.gif",
-            "r2_tec.gif",
-            "r2_3cruces.gif",
-            "r2_tecnica.gif",
             "r2_esfaa.gif",
         ],
     },
