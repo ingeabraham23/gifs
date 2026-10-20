@@ -6,9 +6,7 @@ const BASE_URL = "https://ingeabraham23.github.io/gifs/gifs/";
 const categorias = [
   {
     nombre: "URBANOS ROJOS",
-    gifs: [
-      "ur_sani_mex.gif",
-    ],
+    gifs: ["ur_sani_mex.gif"],
   },
 
   {
@@ -18,13 +16,13 @@ const categorias = [
 
   {
     nombre: "RUTA 01",
-    gifs: [
-      "r1_abastos_64.gif",
-    ],
+    gifs: ["r1_abastos_64.gif"],
   },
   {
     nombre: "FESTIVIDADES",
-    gifs: ["f_halloween8020.gif", "f_halloween12832.gif", "f_ghost.gif"],
+    gifs: [
+      "f_cristo128.gif",
+    ],
   },
 
   {
@@ -39,7 +37,7 @@ const categorias = [
 
   {
     nombre: "CHARACTERS",
-    gifs: ["ch_rugrats.gif", "ch_takechi.gif"]
+    gifs: ["ch_takechi.gif"],
   },
 
   {
@@ -59,9 +57,7 @@ const categorias = [
 
   {
     nombre: "URBANOS VERDES",
-    gifs: [
-      "uv_tezongo_mex.gif",
-    ],
+    gifs: ["uv_tezongo_mex.gif"],
   },
 
   {
